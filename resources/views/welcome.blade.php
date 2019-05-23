@@ -88,7 +88,7 @@
                     <a href="{{ @route('home.occurrence') }}">Frequency</a>
                     <a href="{{ @route('home.unique.string') }}">Unique String</a>
                     <a href="{{ @route('home.pinpoint.map') }}">Pinpoint Mapping</a>
-                    <a href="https://github.com/storemalt/marine-fuel">GitHub Repository</a>
+                    <a href="https://github.com/aadriantech/marine-fuel">GitHub Repository</a>
                 </div>
             </div>
         </div>
