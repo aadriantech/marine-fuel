@@ -4,7 +4,7 @@ MARINE FUEL EXAM is a tech exam job application.
 
 ### Required Technologies
 
-APP NAME is currently running on the following technologies on a windows server. Instructions on how to use them in your own application are linked below.
+MARINE FUEL EXAM is currently running on the following technologies. Instructions on how to use them in your own application are linked below.
 
 | Technology (Core) | Source |
 | ------ | ------ |
@@ -86,6 +86,7 @@ phpunit
 
 ### Changelogs:
 > [2019/05/24] - Added a new readme
+>
 > [2019/05/24] - Added new codebase
 
 
