@@ -65,16 +65,18 @@ php artisan key:generate
 ```
 
 ### Folder Structure
-```sh
-app/Helpers - contains custom helpers for this project
-app/Http/Controllers - contains the business logic and controller base
-app/Interfaces - contains the Interface classes
-app/Mock - contains the mocker class for unit testing
-app - contains the solutions classes for this project
-resources - contains the static files
-test - contains the unit and feature tests
-storage - contains the various caching files including the pinpoint map cache
-routes - contains scripts for routing
+| Directory | Description |
+| ------ | ------ |
+| /app/Helpers | contains custom helpers for this project |
+| /app/Http/Controllers | contains the business logic and controller base |
+| /app/Interfaces | contains the Interface classes |
+| /app/Mock | contains the mocker class for unit testing |
+| /app | contains the solutions classes for this project |
+| /resources | contains the static files |
+| /test | contains the unit and feature tests |
+| /storage | contains the various caching files including the pinpoint map cache |
+| /routes | contains scripts for routing |
+
 ```
 ### [Unit Testing]
 You can run the test by running the command (in linux distros)
