@@ -77,7 +77,6 @@ php artisan key:generate
 | /storage | contains the various caching files including the pinpoint map cache |
 | /routes | contains scripts for routing |
 
-```
 ### [Unit Testing]
 You can run the test by running the command (in linux distros)
 ```sh

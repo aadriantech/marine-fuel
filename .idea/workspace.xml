@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe730709-2e0a-462a-9f6f-99cb4268d85b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/unique.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/unique.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="fe730709-2e0a-462a-9f6f-99cb4268d85b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,32 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/unique.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="50" column="82" selection-start-line="50" selection-start-column="82" selection-end-line="50" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="673">
-                <caret line="99" column="63" selection-start-line="99" selection-start-column="63" selection-end-line="99" selection-end-column="63" />
+              <first_editor relative-caret-position="853">
+                <caret line="114" column="63" selection-start-line="114" selection-start-column="63" selection-end-line="114" selection-end-column="63" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Helpers/StringHelper.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -223,19 +201,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="marine-fuel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marine-fuel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marine-fuel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marine-fuel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marine-fuel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marine-fuel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="marine-github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marine-github" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -367,6 +334,7 @@
       <workItem from="1558511617658" duration="1084000" />
       <workItem from="1558624358345" duration="20000" />
       <workItem from="1558624382100" duration="10717000" />
+      <workItem from="1558636200020" duration="347000" />
     </task>
     <servers />
   </component>
@@ -403,13 +371,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92434000" />
+    <option name="totallyTimeSpent" value="92781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49477807" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" sideWeight="0.5052219" side_tool="true" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49347258" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5065274" side_tool="true" visible="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -662,30 +631,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="101" column="30" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php" />
     <entry file="file://$PROJECT_DIR$/storage/framework/cache/data/a9/4a/a94a8fe5ccb19ba61c4c0873d391e987982fbbd3" />
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/framework/sessions/aOQZLDxSpSZs2Hyk5fjrWdhAyuHJ5yObCCHx7lnw">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/framework/sessions/ZqNkd7lXNrdoJXCkdaZtRdRAYZ4jHQdr1TvSjGWz">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/framework/cache/data/9b/2b/9b2b03a9efc40ddec8fc19ea3f3b9ed2d6828acf">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php" />
+    <entry file="file://$PROJECT_DIR$/storage/framework/sessions/aOQZLDxSpSZs2Hyk5fjrWdhAyuHJ5yObCCHx7lnw" />
+    <entry file="file://$PROJECT_DIR$/storage/framework/sessions/ZqNkd7lXNrdoJXCkdaZtRdRAYZ4jHQdr1TvSjGWz" />
+    <entry file="file://$PROJECT_DIR$/storage/framework/cache/data/9b/2b/9b2b03a9efc40ddec8fc19ea3f3b9ed2d6828acf" />
     <entry file="file://$PROJECT_DIR$/tests/Feature/ExampleTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -754,6 +705,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.env" />
+    <entry file="file://$PROJECT_DIR$/resources/views/unique.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="50" column="82" selection-start-line="50" selection-start-column="82" selection-end-line="50" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Helpers/StringHelper.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -761,25 +720,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/unique.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="50" column="82" selection-start-line="50" selection-start-column="82" selection-end-line="50" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="673">
-            <caret line="99" column="63" selection-start-line="99" selection-start-column="63" selection-end-line="99" selection-end-column="63" />
+          <first_editor relative-caret-position="853">
+            <caret line="114" column="63" selection-start-line="114" selection-start-column="63" selection-end-line="114" selection-end-column="63" />
           </first_editor>
           <second_editor />
         </state>
